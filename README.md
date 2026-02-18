@@ -203,3 +203,6 @@ Para dúvidas ou problemas:
 1. Verifique a documentação em `backend/README.md` e `frontend/README.md`
 2. Consulte a seção de Troubleshooting
 3. Abra uma issue no repositório
+
+
+Kaio Felipe - Paulo Henrique
